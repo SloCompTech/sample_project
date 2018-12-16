@@ -1,6 +1,6 @@
 # Sample project
 
-This is sample project for git course.
+This is sample project for git course. And more.
 
 ## Installation
 
